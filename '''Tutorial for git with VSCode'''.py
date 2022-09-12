@@ -10,3 +10,5 @@ print(a+b)
 "This is a new text, that I just wrote"
 
 k = 20
+
+result = a + b + k
