@@ -10,3 +10,5 @@ print(a+b)
 "This is a new text, that I just wrote"
 
 "Trying a new comment on the main branch"
+print( "What's 9 + 10?")
+print("21")
