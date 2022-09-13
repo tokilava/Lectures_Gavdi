@@ -9,10 +9,3 @@ print(a+b)
 
 "This is a new text, that I just wrote"
 
-k = 20
-kay = 30
-
-
-result = a + b + k
-
-"Trying a new branch"
