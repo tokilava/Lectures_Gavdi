@@ -12,3 +12,11 @@ print(a+b)
 "Trying a new comment on the main branch"
 print( "What's 9 + 10?")
 print("21")
+
+'''This is some new features from the branch "new_features"'''
+
+p = "This"
+o = "Is"
+i = "Taking"
+n = "A"
+t = "While"
