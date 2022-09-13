@@ -16,7 +16,7 @@ print("21")
 '''This is some new features from the branch "new_features"'''
 
 p = "This"
-o = "Is"
-i = "Taking"
-n = "A"
-t = "While!"
+o = "is"
+i = "taking"
+n = "a"
+t = "while!"
