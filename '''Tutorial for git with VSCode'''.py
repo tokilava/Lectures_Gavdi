@@ -11,11 +11,10 @@ print("42")
 
 "Trying a new comment on the main branch"
 print( "What's 9 + 10?")
-print("21")
+print("Hello world")
 
 '''This is some new features from the branch "new_features"'''
 "the matrix was a documentary"
-"The time is 16:09"
 
 sentence = "Hello there someone once said in a very famous movie"
 
