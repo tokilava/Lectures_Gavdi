@@ -16,11 +16,7 @@ print("21")
 '''This is some new features from the branch "new_features"'''
 "the matrix was a documentary"
 "The time is 16:09"
-p = "This"
-o = "is"
-i = "taking"
-n = "a"
-t = "while!"
+
 sentence = "Hello there someone once said in a very famous movie"
 
 print("trying the fetch function")
