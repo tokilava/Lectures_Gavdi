@@ -2,7 +2,7 @@
 
 from cmd import PROMPT
 print("I bet the next line is going to be Hello world in the terminal...")
-print("Hello world")
+print("Hello WoRlD 123")
 a = 10
 b = 20
 print("What's the answer to the universe and everything??")
