@@ -22,3 +22,4 @@ n = "a"
 t = "while!"
 sentence = "Hello there someone once said in a very famous movie"
 
+print("trying the fetch function")
